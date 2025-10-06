@@ -2,3 +2,6 @@
 	path = parkat-anchor
 	url = https://github.com/ogunbor/parkat-anchor.git
 	branch = master
+[submodule "parkat-space"]
+	path = parkat-space
+	url = https://github.com/ogunbor/parkat-space.git
